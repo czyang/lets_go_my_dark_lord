@@ -16,3 +16,5 @@ It's the 48 hours version. Game logic is not completed. I'm intend to let's Slim
 * Alt + Enter  Fullscreen.
 * R reload level
 * F1 restart game.
+
+![gif](https://user-images.githubusercontent.com/830725/46328989-c09e2e80-c5d8-11e8-83b1-9560dc4efc60.gif)
