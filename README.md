@@ -8,8 +8,8 @@ You are the Slime. You need to push your dark lord to the Alter. To let the DARK
 
 CONTROLS:
 
-..* SPACE to singing the dark song which can draw your dark lord to you!
-..* WASD to Move.
-..* Alt + Enter  Fullscreen.
-..* R reload level
-..* F1 restart game.
+* SPACE to singing the dark song which can draw your dark lord to you!
+* WASD to Move.
+* Alt + Enter  Fullscreen.
+* R reload level
+* F1 restart game.
