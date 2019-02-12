@@ -5,6 +5,8 @@
 
 **This is a SGDC Game Jam C game. Theme is "Cooperation"**
 
+[Adam Plays Lets go my dark lord](https://youtu.be/DVT2NiR33XY?t=1722)
+
 **This game is made by Game Maker Studio 2 (Version: 2.1.5)**
 
 It's the 48 hours version. Game logic is not completed. I'm intend to let's Slime and Dark Lord cooperate together to reach the Alter. There should have some close range and long range attack enemy in the map.  Slime should have HP and can't attack. Slime need the dark lord's help to kill the enemy. So I can't completed this idea within 48 hours.
