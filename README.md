@@ -5,7 +5,7 @@
 
 **This is a SGDC Game Jam C game. Theme is "Cooperation"**
 
-[Adam Plays Lets go my dark lord](https://youtu.be/DVT2NiR33XY?t=1722)
+Adam Plays Lets go my dark lord [Youtube](https://youtu.be/DVT2NiR33XY?t=1722)
 
 **This game is made by Game Maker Studio 2 (Version: 2.1.5)**
 
